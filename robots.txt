@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://joelmartinezsanchezalum-dev.github.io/Excavaciones-MMP/sitemap.xml

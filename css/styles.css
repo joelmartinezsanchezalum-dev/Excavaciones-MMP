@@ -1,0 +1,102 @@
+/* Estil general de la pàgina */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  overflow-wrap: break-word;
+  color: #222;
+  background-color: #f2f2f2;
+}
+
+header {
+  padding: 25px 15px;
+  text-align: center;
+  background-color: #f4cb16;
+}
+
+h1 {
+  margin: 0;
+}
+
+nav {
+  padding: 10px;
+  text-align: center;
+  background-color: #222;
+}
+
+nav a {
+  display: inline-block;
+  margin: 5px 10px;
+  color: white;
+}
+
+main {
+  width: 90%;
+  max-width: 800px;
+  margin: 25px auto;
+}
+
+section {
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 6px;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+img {
+  display: block;
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  border-radius: 4px;
+}
+
+a {
+  color: #744f00;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  font: inherit;
+  border: 1px solid #888;
+  border-radius: 4px;
+}
+
+button {
+  padding: 10px 20px;
+  font: inherit;
+  color: #222;
+  background-color: #f4cb16;
+  border: 1px solid #987c00;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #e3b900;
+}
+
+.nota {
+  font-size: 14px;
+  color: #555;
+}
+
+footer {
+  padding: 15px;
+  text-align: center;
+  background-color: #ddd;
+}

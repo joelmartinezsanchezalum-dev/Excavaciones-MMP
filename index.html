@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MMP | Excavacions i lloguer de retroexcavadora a Rubí</title>
+  <meta name="description" content="MMP, Miguel Ángel Martínez Plazas. Excavacions a Rubí, anivellament de terrenys, excavació de piscines i lloguer de retroexcavadora.">
+  <link rel="canonical" href="https://joelmartinezsanchezalum-dev.github.io/Excavaciones-MMP/">
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="js/main.js" defer></script>
+</head>
+<body>
+  <!-- Nom de l’empresa i menú -->
+  <header>
+    <h1>MMP Excavacions</h1>
+    <p>Miguel Ángel Martínez Plazas · Rubí, Barcelona</p>
+  </header>
+
+  <nav aria-label="Menú principal">
+    <a href="#serveis">Serveis</a>
+    <a href="#maquinaria">Maquinària</a>
+    <a href="#lloguer">Lloguer</a>
+    <a href="#contacte">Contacte</a>
+  </nav>
+
+  <main>
+    <section>
+      <h2>Excavacions a Rubí</h2>
+      <p>Som una empresa dedicada a les excavacions i al moviment de terres. Preparem el terreny per a la teva obra.</p>
+    </section>
+
+    <!-- Serveis de l’empresa -->
+    <section id="serveis">
+      <h2>Els nostres serveis</h2>
+      <ul>
+        <li>Excavacions i moviment de terres.</li>
+        <li>Anivellament de terrenys.</li>
+        <li>Excavació per a piscines.</li>
+        <li>Lloguer d’una retroexcavadora.</li>
+      </ul>
+    </section>
+
+    <!-- Les dues màquines -->
+    <section id="maquinaria">
+      <h2>La nostra maquinària</h2>
+      <h3>Retroexcavadora</h3>
+      <img src="assets/retroexcavadora.webp" alt="Fotografia il·lustrativa d’una retroexcavadora" width="1200" height="795">
+      <p>Tenim una retroexcavadora per fer treballs d’excavació. També es pot llogar amb consulta prèvia.</p>
+
+      <h3>Giratòria</h3>
+      <img src="assets/excavadora-obra.webp" alt="Fotografia il·lustrativa d’una excavadora giratòria" width="1920" height="1280" loading="lazy">
+      <p>Tenim una giratòria per a excavacions i moviment de terres.</p>
+      <p class="nota">Les fotografies són il·lustratives i no corresponen a les màquines de MMP.</p>
+    </section>
+
+    <section id="lloguer">
+      <h2>Lloguer de retroexcavadora a Rubí</h2>
+      <p>Disposem d’una retroexcavadora per llogar. Consulta la disponibilitat, el preu i les condicions.</p>
+      <a href="#contacte">Demanar informació</a>
+    </section>
+
+    <!-- Contacte i formulari de demostració -->
+    <section id="contacte">
+      <h2>Contacte</h2>
+      <p><strong>Telèfon:</strong> +34 600 000 000</p>
+      <p><strong>Correu:</strong> info@mmp-excavaciones.example</p>
+      <p><strong>Ubicació:</strong> Rubí, Barcelona</p>
+      <p><strong>Horari:</strong> de dilluns a divendres, de 8 a 18 h.</p>
+      <p class="nota">Projecte acadèmic. Les dades de contacte i l’horari són ficticis.</p>
+
+      <form id="formulari">
+        <label for="nom">Nom</label>
+        <input type="text" id="nom" autocomplete="name" required>
+
+        <label for="missatge">Què necessites?</label>
+        <textarea id="missatge" rows="4" required></textarea>
+
+        <p class="nota">Formulari de prova: no envia dades ni fa reserves.</p>
+        <button id="boto" type="submit" disabled>Provar formulari</button>
+        <p id="resultat" role="status"></p>
+        <noscript>Activa JavaScript per provar el formulari.</noscript>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>MMP Excavacions · Projecte acadèmic</p>
+    <p>Fotografies d’<a href="https://unsplash.com/photos/yellow-and-black-excavator-on-brown-soil-maVHoAWycOs">Abdul Zreika</a> i <a href="https://unsplash.com/photos/yellow-backhoe-parked-next-to-a-large-silo-zU0htI8Y55M">Roger Starnes Sr</a> (Unsplash).</p>
+  </footer>
+</body>
+</html>
