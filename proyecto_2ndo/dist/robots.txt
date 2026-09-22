@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mmp-excavaciones.gt4xpwvyvs.chatgpt.site/sitemap.xml
