@@ -15,4 +15,4 @@ La pàgina utilitza Arial o la font sans-serif del navegador. No carrega fonts e
 
 ## Projecte
 
-Web acadèmica de MMP (Miguel Ángel Martínez Plazas), amb dades de contacte fictícies.
+MMP (Miguel Ángel Martínez Plazas).

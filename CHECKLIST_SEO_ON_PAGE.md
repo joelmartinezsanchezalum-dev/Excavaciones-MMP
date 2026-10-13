@@ -14,7 +14,7 @@ Comprovació preparada a partir del PowerPoint B06 i del codi de l’enunciat. S
 | Contingut útil i propi | Serveis a la portada; condicions que cal consultar i preguntes freqüents a la pàgina de lloguer. |
 | Enllaçat intern | Enllaços en tots dos sentits i textos descriptius. |
 | HTML semàntic | header, nav, main, section i footer. |
-| Imatges | WebP, alt descriptius, dimensions declarades i càrrega diferida de la imatge secundària. Fotografies identificades com a il·lustratives. |
+| Imatges | WebP, alt descriptius, dimensions declarades i càrrega diferida de la imatge secundària. |
 | Disseny adaptable | Meta viewport, contenidor flexible, imatges i mapa al 100% de l’amplada disponible. |
 | Google Maps incrustat | Sí, a la portada, amb 400 px d’alçada. Mostra Rubí, no una seu inventada. Cal comprovar la càrrega amb connexió a Internet. |
 | Favicon i Open Graph | Icona PNG i metadades de compartició a cada pàgina, amb URLs absolutes. |
@@ -23,7 +23,7 @@ Comprovació preparada a partir del PowerPoint B06 i del codi de l’enunciat. S
 | HTTPS | Les URLs de publicació utilitzen HTTPS. Cal verificar el desplegament després de pujar els fitxers. |
 | Velocitat | CSS i JS senzills, sense llibreries ni fonts externes. Pendent de mesurar amb PageSpeed Insights sobre la versió publicada. |
 | Indexació a Google | No comprovada. Publicar i permetre el rastreig no garanteix la indexació. |
-| Dades locals | Rubí al contingut. Telèfon i horari identificats com a ficticis; no es pot donar per verificat el NAP d’un negoci real. |
+| Dades locals | Rubí al contingut. Telèfon i horari de mostra, sense verificar; no es pot donar per verificat el NAP d’un negoci real. |
 | SEO off-page | No executat: backlinks, directoris i ressenyes són actuacions externes al codi. |
 | Formulari del professor | Primera secció rebuda en una captura. Falten les pantalles següents. |
 
