@@ -1,32 +1,21 @@
 # MMP Excavacions
 
-Web molt bàsica en català per a MMP (Miguel Ángel Martínez Plazas), un negoci d’excavacions de Rubí, Barcelona.
+Web estàtic acadèmic en català, amb HTML, CSS i JavaScript bàsics.
 
-## Com veure la web
+- `index.html`: portada amb serveis, maquinària, mapa de Google Maps i formulari de prova.
+- `lloguer-retroexcavadora-rubi.html`: pàgina específica per a la cerca «lloguer de retroexcavadora a Rubí».
+- `CHECKLIST_SEO_ON_PAGE.md`: comprovació dels criteris de la pràctica.
 
-Obre el fitxer `index.html` al navegador. No cal instal·lar res.
+## Ús
 
-## Fitxers
+Copia el contingut d’aquesta carpeta a MMP_Web i substitueix els fitxers anteriors. Obre index.html. El mapa necessita connexió a Internet.
 
-- `index.html`: textos, menú, fotos i formulari.
-- `css/styles.css`: colors, mides i espais de la pàgina.
-- `js/main.js`: mostra un missatge en provar el formulari.
-- `assets/`: les dues fotografies.
-- `robots.txt` i `sitemap.xml`: informació bàsica per als cercadors.
-- `CREDITOS.md`: autors i procedència de les fotografies.
+## Publicació
 
-## Contingut
+Adreça prevista: https://joelmartinezsanchezalum-dev.github.io/Excavaciones-MMP/
 
-La web presenta els serveis d’excavacions, moviment de terres, anivellament i excavació per a piscines. També mostra una retroexcavadora, una giratòria i l’opció de llogar la retroexcavadora.
+Les adreces canonical, Open Graph i sitemap corresponen a aquesta publicació. Els canvis no es publiquen fins que es pugen al repositori.
 
-És un projecte acadèmic. Les dades de contacte i l’horari són ficticis. Les fotografies són il·lustratives. El formulari no envia dades ni fa reserves.
+GitHub Pages només consulta robots.txt a l’arrel del domini. El fitxer inclòs en aquest projecte queda sota /Excavaciones-MMP/ i no controla tot el domini. Cal publicar-lo a l’arrel del domini si es vol utilitzar com a fitxer de control del rastreig.
 
-## Com modificar-la
-
-Canvia els textos a `index.html`, el disseny a `css/styles.css` i el missatge del formulari a `js/main.js`. Les carpetes `assets`, `css` i `js` han d’estar al costat de `index.html`.
-
-## GitHub Pages
-
-[Veure la web](https://joelmartinezsanchezalum-dev.github.io/Excavaciones-MMP/)
-
-Copia el contingut d’aquesta carpeta a l’arrel del teu projecte `MMP_Web`, substituint els fitxers de la versió anterior. Desa els canvis, fes un commit i puja’ls al repositori `Excavaciones-MMP`.
+Les dades de contacte i l’horari són ficticis. El formulari no envia dades. No s’ha afegit marcatge de negoci local amb dades inventades.
