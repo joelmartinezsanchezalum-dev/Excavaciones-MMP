@@ -3,7 +3,7 @@
 Web estàtic en català, amb HTML, CSS i JavaScript bàsics.
 
 - `index.html`: portada amb serveis, maquinària, mapa de Google Maps i formulari de prova.
-- `lloguer-retroexcavadora-rubi.html`: pàgina específica per a la cerca «lloguer de retroexcavadora a Rubí».
+- `lloguer-retroexcavadora-valles-occidental.html`: pàgina específica per a la cerca «lloguer de retroexcavadora al Vallès Occidental».
 - `CHECKLIST_SEO_ON_PAGE.md`: comprovació dels criteris de la pràctica.
 
 ## Ús
